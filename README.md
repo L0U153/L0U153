@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Louise Lu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Biomedical Data Science @ JHU
-- 💞️ I’m looking to collaborate on ...
-- 📫 Some of my C++ game projects have confidential issue so they cannot be posted public on github. 
+- 📫 Some of my C++ game projects have confidential issues so they cannot be posted public on github. 
 - Plz email me for access: louiseluyz@gmail.com
 
 <!---
